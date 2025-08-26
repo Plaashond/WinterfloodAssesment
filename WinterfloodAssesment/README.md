@@ -17,3 +17,7 @@
 	- Factory?
 	- Abstract for validation.
 	- DI
+
+## Setup
+- set run context http or docker to get access to swagger
+- unit tests are basic but cover some of the main points
